@@ -4,6 +4,4 @@ first try
 
 branch dev
 
-act file;
-
-act 2;
+conflict fixed;
